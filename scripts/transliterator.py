@@ -297,3 +297,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# torch = 2.5.0
+# fairseq = git+https://github.com/One-sixth/fairseq.git@44800430a728c2216fd1cf1e8daa672f50dfacba
+# python = 3.12.x
+# pip = 23.3.1
