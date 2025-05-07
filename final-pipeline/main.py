@@ -57,12 +57,12 @@ def main():
 
     # Define the pipeline steps
     pipeline_steps = [
-        #        {
-        #            "number": 1,
-        #            "name": "Scraping YouTube Comments",
-        #            "command": "1-scrape.py",
-        #            "required_files": [],
-        #        },
+        {
+            "number": 1,
+            "name": "Scraping YouTube Comments",
+            "command": "1-scrape.py",
+            "required_files": [],
+        },
         {
             "number": 2,
             "name": "Processing Emojis",
