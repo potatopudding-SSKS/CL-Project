@@ -1,0 +1,33 @@
+CRF Model Performance Metrics
+============================
+
+Accuracy: 0.9473
+Precision: 0.9477
+Recall: 0.9473
+F1 Score: 0.9454
+
+Classification Report:
+Class 0:
+  Precision: 0.9970
+  Recall: 1.0000
+  F1-score: 0.9985
+  Support: 329.0
+
+Class 1:
+  Precision: 0.9422
+  Recall: 0.7814
+  F1-score: 0.8543
+  Support: 334.0
+
+Class 2:
+  Precision: 0.9339
+  Recall: 0.9853
+  F1-score: 0.9589
+  Support: 1089.0
+
+Class 3:
+  Precision: 1.0000
+  Recall: 0.6667
+  F1-score: 0.8000
+  Support: 12.0
+

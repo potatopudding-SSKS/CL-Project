@@ -1,0 +1,7 @@
+ai4bharat-transliteration
+google-api-python-client
+matplotlib
+seaborn
+sklearn_crfsuite
+git+https://github.com/One-sixth/fairseq.git@44800430a728c2216fd1cf1e8daa672f50dfacba
+torch==2.5.0
